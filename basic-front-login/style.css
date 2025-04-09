@@ -63,7 +63,7 @@ z-index: 2;
     color: var(--white);
     border: none;
     padding: 12px 24px;
-    border-radius: 30px;ls -al ~/.ssh
+    border-radius: 30px;
     font-size: 16px;
     cursor: pointer;
     transition: var(--transition);
